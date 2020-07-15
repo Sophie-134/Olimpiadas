@@ -1,3 +1,3 @@
 # Olimpiadas
 
-Trabajo colaborativo utilizando JAVA. Se vieron temas como instanse of, casteo, constructores, getters y setters, interfaces, entre otros.
+Ejercicio de programacion orientada a objetos. Introducción a GIT, se crea una cuenta de GitHub para subir este ejercicio. 
